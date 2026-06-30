@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5a0287/HFL/v1
+canonical_location: https://kanripo.org/bkk/KR5a0287/HFL/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 三極至命筌諦
+  date: '2015-08-28 23:44:22.395762'
+  source:
+    repository: kanripo
+    path: KR5a0287
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0287_000-HFL.yaml, hash: 'sha256:94c02374312df943c252b3f723675743b127dcf9c6fba81aa01d2df24b44181a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5a0287_000-HFL.markers.yaml, hash: 'sha256:345ddd86e7929c4131fa54b406354f34979a383a6478b1728f2716d4f30c4534'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5a0287_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 8917
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:5e160fe52752199546ad4c29d4ee73affea0457261d9c03ee7e6a24f30dab693
